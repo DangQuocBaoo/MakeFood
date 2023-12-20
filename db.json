@@ -58,7 +58,7 @@
 		{
 			"id": "02",
 			"name": "Lasagna",
-			"image": "images/lasgana.png",
+			"image": "/images/lasgana.png",
 			"rating": "3.6",
 			"ingredients": [
 				"Lasagna Noodles",
@@ -83,7 +83,7 @@
 		{
 			"id": "03",
 			"name": "Hot Dog",
-			"image": "images/hotdog.png",
+			"image": "/images/hotdog.png",
 			"rating": "4.6",
 			"ingredients": ["Hot Dog Buns", "Frankfurters", "Ketchup", "Mustard"],
 			"time": "40 mins",
@@ -103,7 +103,7 @@
 		{
 			"id": "04",
 			"name": "Manchurian",
-			"image": "images/manchurian.png",
+			"image": "/images/manchurian.png",
 			"rating": "3.6",
 			"ingredients": ["Cauliflower", "Soy Sauce", "Ginger", "Garlic"],
 			"time": "30 mins",
@@ -123,7 +123,7 @@
 		{
 			"id": "05",
 			"name": "Chicken",
-			"image": "images/chicken.png",
+			"image": "/images/chicken.png",
 			"rating": "2.2",
 			"ingredients": ["Chicken Breasts", "Salt", "Black Pepper", "Olive Oil"],
 			"time": "45 mins",
@@ -144,7 +144,7 @@
 		{
 			"id": "06",
 			"name": "Cupcakes",
-			"image": "images/cupcakes.png",
+			"image": "/images/cupcakes.png",
 			"rating": "5.0",
 			"ingredients": ["Flour", "Sugar", "Eggs", "Butter"],
 			"time": "60 mins",
@@ -164,7 +164,7 @@
 		{
 			"id": "07",
 			"name": "Curry",
-			"image": "images/curry.png",
+			"image": "/images/curry.png",
 			"rating": "4.8",
 			"ingredients": ["Meat", "Curry Powder", "Coconut Milk", "Spices"],
 			"time": "55 mins",
@@ -186,7 +186,7 @@
 		{
 			"id": "08",
 			"name": "Ramen",
-			"image": "images/ramen-org.png",
+			"image": "/images/ramen-org.png",
 			"rating": "4.2",
 			"ingredients": ["Ramen Noodles", "Soy Sauce", "Eggs", "Vegetables"],
 			"time": "35 mins",
