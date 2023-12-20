@@ -38,7 +38,7 @@
 		{
 			"id": "01",
 			"name": "Tuna Tartare",
-			"image": "images/tuna.png",
+			"image": "/images/tuna.png",
 			"rating": "4.2",
 			"ingredients": ["Fresh Tuna", "Lime Juice", "Red Onion", "Avocado"],
 			"time": "40 mins",
